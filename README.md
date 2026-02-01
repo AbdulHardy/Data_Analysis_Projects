@@ -21,6 +21,9 @@ Key fields include:
 - Stock In & Stock Out
 - Unit Cost
 - Inventory Value
+### 📂 Dataset
+You can download the cleaned dataset here:
+[Download Dataset](data/ecommerce_sales_cleaned.xlsx)
 
 ---
 
