@@ -21,7 +21,7 @@ Key fields include:
 - Stock In & Stock Out
 - Unit Cost
 - Inventory Value
-[Download Dataset](data/Inventory_Supply_Chain_Analysis_Excel/inventory_supply_chain_30k.xlsx)
+[Download Dataset](data/Inventory & Supply Chain Analysis (Excel)/inventory_supply_chain_30k.xlsx)
 
 ---
 
