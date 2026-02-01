@@ -23,7 +23,8 @@ Key fields include:
 - Inventory Value
 ### 📂 Dataset
 You can download the cleaned dataset here:
-[Download Dataset](data/Inventory & Supply Chain Analysis (Excel)/inventory_supply_chain_30k.xlsx)
+[Download Dataset](data/Inventory_Supply_Chain_Analysis_Excel/inventory_supply_chain_30k.xlsx)
+
 
 ---
 
