@@ -94,6 +94,8 @@ Built KPIs using Pivot Tables to answer business questions such as:
   - Stock Movement
 - Product-level and warehouse-level performance tracking
 - Risk-based inventory visibility for quick decision-making
+<img width="1920" height="1080" alt="Inventory   Supply Chain Analysis (Dashboard)" src="https://github.com/user-attachments/assets/bb86ea34-3bc1-4787-81a8-392ba506396f" />
+
 
 ---
 
