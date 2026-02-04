@@ -204,8 +204,7 @@ LIMIT 10;
 ---
 
 ## 📈 Dashboard Preview
-
-> *(Add screenshot of your Power BI dashboard here)*
+<img width="1920" height="1080" alt="Netflix_Data_Dashboard" src="https://github.com/user-attachments/assets/42521768-be1e-4d6d-a7b8-b54bf67bcc54" />
 
 ---
 
