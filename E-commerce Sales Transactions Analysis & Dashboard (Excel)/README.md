@@ -135,6 +135,7 @@ The dashboard enables dynamic analysis and business decision-making.
 
 ### 🏁 Project Outcome  
 This project demonstrates the ability to analyze **large-scale e-commerce transaction data end-to-end**, transform raw data into meaningful insights, and present findings through a **professional, interactive Power BI dashboard** suitable for business stakeholders.
-<img width="1920" height="1080" alt="Inventory   Supply Chain Analysis (Dashboard)" src="https://github.com/user-attachments/assets/c7594b2b-072c-4a62-8450-b86a27767348" />
+
+<img width="1920" height="1080" alt="Ecommerce Sales_Data_dashBord" src="https://github.com/user-attachments/assets/714cc664-6440-4d88-95af-0011c6ec2515" />
 
 
